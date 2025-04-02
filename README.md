@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<img align="center" alt="" src="https://github.com/user-attachments/assets/ce5a4958-cc20-460f-b757-b3b02efa79ed">
 
 #
 
