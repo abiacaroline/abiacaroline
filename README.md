@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="https://github.com/user-attachments/assets/ce5a4958-cc20-460f-b757-b3b02efa79ed">
+<img align="center" alt="" src="">
 
 #
 
@@ -15,7 +15,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/ce5a4958-cc20-460f-b757-b3b02efa79ed">
 
 <h3 align="left">Contate-me!</h3>
 
