@@ -20,7 +20,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">Contate-me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:abiamaro65@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/abia/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/Ábia-Caroline-Amaro-Soares/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/abiaxz__/)
  <a href="https://discordapp.com/users/853323097063161877" target="_blank"><img src="https://img.shields.io/badge/Discord-020202?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF" target="_blank"></a> 
 
