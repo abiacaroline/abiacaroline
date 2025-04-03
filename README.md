@@ -12,7 +12,7 @@
 
 <p align="center">Estudante do Ensino Médio no curso de informática. Atualmente estudo design e programação.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
+
 #
 
 <img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/ce5a4958-cc20-460f-b757-b3b02efa79ed">
@@ -24,7 +24,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/abiaxz__/)
 
 
-<h3 align="left">Linguagens</h3>
+<h3 align="left">Habilidades</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -33,9 +33,12 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height= "25" alt= "figma logo" />
 </div>
 
-#
+# Conheça Meus Projetos:
+
+
 
 <div style="text-align: center;" align="center">
   <h3>* Status GitHub *</h3>
