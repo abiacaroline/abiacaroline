@@ -43,17 +43,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <a href="https://www.figma.com/proto/8cXVMTcof9bOfSvLWQ22ho/Untitled?node-id=39-279&p=f&t=IMc1Ly3PNLSXmQcv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A279"><img src="https://img.shields.io/badge/Segundo_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a>
   <a href="https://www.figma.com/proto/kdJTh19BfJLf3pwVDAXbhK/Aplicativo-treino?t=CZXMUwSDezt62jYV-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=5-8&starting-point-node-id=5%3A8"><img src="https://img.shields.io/badge/Terceiro_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a>
 
-<div style="text-align: center;" align="center">
-  <h3>* Status GitHub *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abiacaroline&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/abiacaroline/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abiacaroline&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
-
-
 #
 
 <picture align="center">
