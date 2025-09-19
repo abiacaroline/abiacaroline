@@ -45,12 +45,12 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
  
 # Meus Projetos no Figma🙃
 
-<a href="https://www.figma.com/proto/Bzm0EigL0cdhtF9p2CX7yU/Trabalho-Figma?node-id=1-2"><img src="https://img.shields.io/badge/Primeiro_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a> <a href="https://www.figma.com/proto/8cXVMTcof9bOfSvLWQ22ho/Untitled?node-id=39-279&p=f&t=IMc1Ly3PNLSXmQcv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A279"><img src="https://img.shields.io/badge/Segundo_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a>  <a href="https://www.figma.com/proto/kdJTh19BfJLf3pwVDAXbhK/Aplicativo-treino?t=CZXMUwSDezt62jYV-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=5-8&starting-point-node-id=5%3A8"><img src="https://img.shields.io/badge/Terceiro_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a>
+<a href="https://www.figma.com/proto/Bzm0EigL0cdhtF9p2CX7yU/Trabalho-Figma?node-id=1-2"><img src="https://img.shields.io/badge/Primeiro_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a>       <a href="https://www.figma.com/proto/8cXVMTcof9bOfSvLWQ22ho/Untitled?node-id=39-279&p=f&t=IMc1Ly3PNLSXmQcv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A279"><img src="https://img.shields.io/badge/Segundo_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a>  <a href="https://www.figma.com/proto/kdJTh19BfJLf3pwVDAXbhK/Aplicativo-treino?t=CZXMUwSDezt62jYV-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=5-8&starting-point-node-id=5%3A8"><img src="https://img.shields.io/badge/Terceiro_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a>
 
 #
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abiacaroline/abiacaroline/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abiacaroline/abiacaroline/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abiacaroline/abiacaroline/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victorruan123/Victorruan123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victorruan123/Victorruan123/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victorruan123/Victorruan123/output/github-contribution-grid-snake.svg">
 </picture>
