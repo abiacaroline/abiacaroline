@@ -17,15 +17,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/ce5a4958-cc20-460f-b757-b3b02efa79ed">
 
-<h3 align="left">Contate-me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:abiamaro65@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ábia-caroline-amaro-soares-a251422b6/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/abiaxz__/)
- <a href="https://discordapp.com/users/853323097063161877" target="_blank"><img src="https://img.shields.io/badge/Discord-020202?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF" target="_blank"></a> 
 
 
-<h3 align="left">Habilidades</h3>
+
+# Habilidades
 
 - Linguagens de programação:
   
@@ -54,3 +49,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victorruan123/Victorruan123/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victorruan123/Victorruan123/output/github-contribution-grid-snake.svg">
 </picture>
+
+<h3 align="left">Contate-me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:abiamaro65@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ábia-caroline-amaro-soares-a251422b6/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/abiaxz__/)
+ <a href="https://discordapp.com/users/853323097063161877" target="_blank"><img src="https://img.shields.io/badge/Discord-020202?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF" target="_blank"></a> 
