@@ -27,30 +27,25 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">Habilidades</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height= "25" alt= "figma logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height= "25" alt= "php logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= "25" alt= "python logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height= "25" alt= "insomnia logo" />
+- Linguagens de programação:
   
-    
-    
-</div>
+    [![My Skills](https://skillicons.dev/icons?i=python,php,javascript)](https://skillicons.dev)
 
-# Conheça Meus Projetos🙃
+- Banco de Dados: 
 
-  <a href="https://www.figma.com/proto/Bzm0EigL0cdhtF9p2CX7yU/Trabalho-Figma?node-id=1-2"><img src="https://img.shields.io/badge/Primeiro_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a>
-  <a href="https://www.figma.com/proto/8cXVMTcof9bOfSvLWQ22ho/Untitled?node-id=39-279&p=f&t=IMc1Ly3PNLSXmQcv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A279"><img src="https://img.shields.io/badge/Segundo_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a>
-  <a href="https://www.figma.com/proto/kdJTh19BfJLf3pwVDAXbhK/Aplicativo-treino?t=CZXMUwSDezt62jYV-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=5-8&starting-point-node-id=5%3A8"><img src="https://img.shields.io/badge/Terceiro_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a>
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+  
+- Frameworks e Bibliotecas:
+
+    [![My Skills](https://skillicons.dev/icons?i=express,bootstrap)](https://skillicons.dev)
+
+- Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,nodejs)](https://skillicons.dev)
+ 
+# Meus Projetos no Figma🙃
+
+<a href="https://www.figma.com/proto/Bzm0EigL0cdhtF9p2CX7yU/Trabalho-Figma?node-id=1-2"><img src="https://img.shields.io/badge/Primeiro_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a> <a href="https://www.figma.com/proto/8cXVMTcof9bOfSvLWQ22ho/Untitled?node-id=39-279&p=f&t=IMc1Ly3PNLSXmQcv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A279"><img src="https://img.shields.io/badge/Segundo_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a>  <a href="https://www.figma.com/proto/kdJTh19BfJLf3pwVDAXbhK/Aplicativo-treino?t=CZXMUwSDezt62jYV-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=5-8&starting-point-node-id=5%3A8"><img src="https://img.shields.io/badge/Terceiro_projeto-020202?style=for-the-badge&logo=figma&logoColor=FF00F6&color:FFF"></a>
 
 #
 
