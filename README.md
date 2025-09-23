@@ -21,7 +21,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 - Linguagens de programação:
   
-    [![My Skills](https://skillicons.dev/icons?i=python,php,javascript)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=php,javascript)](https://skillicons.dev)
 
 - Banco de Dados: 
 
