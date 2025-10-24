@@ -41,7 +41,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 ## Meus Projetos no Figma🙃
 
-<a href="https://www.figma.com/proto/Bzm0EigL0cdhtF9p2CX7yU/Trabalho-Figma?node-id=1-2" target="_blank">
+<a href="https://www.figma.com/proto/Bzm0EigL0cdhtF9p2CX7yU/Trabalho-Figma?node-id=1-2">
   <img src="https://img.shields.io/badge/Primeiro_projeto-800080?style=for-the-badge&logo=figma&logoColor=FFF&color:FFF"></a>
   
 <a href="https://www.figma.com/proto/8cXVMTcof9bOfSvLWQ22ho/Untitled?node-id=39-279&p=f&t=IMc1Ly3PNLSXmQcv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A279">
