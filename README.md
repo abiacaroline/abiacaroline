@@ -35,9 +35,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,nodejs)](https://skillicons.dev)
 
-- Próximos a aprender:
+- Aprendendo:
   
-    [![My Skills](https://skillicons.dev/icons?i=typescript,react)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=typescript,react,tailwind)](https://skillicons.dev)
 
 ## Meus Projetos no Figma🙃
 
